@@ -5,6 +5,7 @@
             "name": "4 Non blondes (banda)",
             "year": "1989 - 1995",
             "country": "USA",
+            "image": "https://www.jornada.com.mx/2020/10/05/fotos/a12n2esp-1.jpg",
             "music": "https://www.youtube.com/embed/6NXnxTNIWkc"
         },
         {
@@ -12,6 +13,7 @@
             "name": "Alanis Morissette",
             "year": "1974 - presente",
             "country": "CND",
+            "image": "https://www.jornada.com.mx/2020/10/05/fotos/a12n2esp-1.jpg",
             "music": "https://www.youtube.com/watch?v=OOgpT5rEKIU"
         },
         {
@@ -19,6 +21,7 @@
             "name": "Annie Lenox",
             "year": "1954 - presente",
             "country": "UK",
+            "image": "https://www.jornada.com.mx/2020/10/05/fotos/a12n2esp-1.jpg",
             "music": "https://www.youtube.com/watch?v=HG7I4oniOyA"
         },
         {
@@ -26,6 +29,7 @@
             "name": "Aretha Franklin",
             "year": "1942 - 2018",
             "country": "USA",
+            "image": "https://www.jornada.com.mx/2020/10/05/fotos/a12n2esp-1.jpg",
             "music": "https://www.youtube.com/watch?v=ykxuu8LNluY"
         },
         {
@@ -33,6 +37,7 @@
             "name": "Bjork",
             "year": "1965 - presente",
             "country": "ISL",
+             "image": "https://www.jornada.com.mx/2020/10/05/fotos/a12n2esp-1.jpg",
             "music": "https://www.youtube.com/watch?v=-W5OfUzwyyw"
         },
         {
@@ -40,6 +45,7 @@
             "name": "Carole King",
             "year": "1942 - presente",
             "country": "USA",
+            "image": "https://www.jornada.com.mx/2020/10/05/fotos/a12n2esp-1.jpg",
             "music": "https://www.youtube.com/watch?v=VbMI4imWFzY"
         },
         {
@@ -47,6 +53,7 @@
             "name": "Chrissie Hynde",
             "year": "1951 - presente",
             "country": "USA",
+            "image": "https://www.jornada.com.mx/2020/10/05/fotos/a12n2esp-1.jpg",
             "music": "https://www.youtube.com/watch?v=UQ8kbordCAg"
         },
         {
@@ -54,6 +61,7 @@
             "name": "Cordell Jackson",
             "year": "1923 - 2004",
             "country": "USA",
+            "image": "https://www.jornada.com.mx/2020/10/05/fotos/a12n2esp-1.jpg",
             "music": "https://www.youtube.com/watch?v=TNuYpPVFuJ8"
         },
         {
@@ -61,6 +69,7 @@
             "name": "Debbie Harry",
             "year": "1945 - presente",
             "country": "USA",
+            "image": "https://www.jornada.com.mx/2020/10/05/fotos/a12n2esp-1.jpg",
             "music": "https://www.youtube.com/watch?v=NbdRLyixJpc"
         },
         {
@@ -68,11 +77,13 @@
             "name": "Grace Slick",
             "year": "1939 - presente",
             "country": "USA",
+            "image": "https://www.jornada.com.mx/2020/10/05/fotos/a12n2esp-1.jpg",
             "music": "https://www.youtube.com/watch?v=bv98M7iZwAI"
         },
         {
             "id": "11",
             "name": "Janis Joplin",
+            "image": "https://www.jornada.com.mx/2020/10/05/fotos/a12n2esp-1.jpg",
             "year": "1943 - 1970",
             "country": "USA",
             "music": "https://www.youtube.com/watch?v=zmRctr86SVE"
@@ -82,6 +93,7 @@
             "name": "Jayne County",
             "year": "1947 - presente",
             "country": "USA",
+            "image": "https://www.jornada.com.mx/2020/10/05/fotos/a12n2esp-1.jpg",
             "music": "https://www.youtube.com/watch?v=x8iCLbnu1rk"
         },
         {
@@ -89,6 +101,7 @@
             "name": "Joan Jett",
             "year": "1958 -presente",
             "country": "USA",
+            "image": "https://www.jornada.com.mx/2020/10/05/fotos/a12n2esp-1.jpg",
             "music": "https://www.youtube.com/watch?v=wMsazR6Tnf8"
         },
         {
@@ -96,6 +109,7 @@
             "name": "Kathleen Hanna",
             "year": "1968 - presente",
             "country": "USA",
+            "image": "https://www.jornada.com.mx/2020/10/05/fotos/a12n2esp-1.jpg",
             "music": "https://www.youtube.com/watch?v=hAg9bItrsII"
         },
         {
@@ -103,6 +117,7 @@
             "name": "Laura Nyro",
             "year": "1947 - 1997 ",
             "country": "USA",
+            "image": "https://www.jornada.com.mx/2020/10/05/fotos/a12n2esp-1.jpg",
             "music": "https://www.youtube.com/watch?v=raxswPy0bW4"
         },
         {
@@ -110,6 +125,7 @@
             "name": "Lydia Lunch",
             "year": "1959 - presente",
             "country": "USA",
+            "image": "https://www.jornada.com.mx/2020/10/05/fotos/a12n2esp-1.jpg",
             "music": "https://www.youtube.com/watch?v=VUWDrGGX9Ao"
         },
         {
@@ -117,6 +133,7 @@
             "name": "Mammie Smith",
             "year": "1883 - 1946",
             "country": "USA",
+            "image": "https://www.jornada.com.mx/2020/10/05/fotos/a12n2esp-1.jpg",
             "music": "https://www.youtube.com/watch?v=8AN3pxrRzMM"
         },
         {
@@ -124,6 +141,7 @@
             "name": "Maureen Ann 'Moe' Tucker",
             "year": "1944 - pesente",
             "country": "USA",
+            "image": "https://www.jornada.com.mx/2020/10/05/fotos/a12n2esp-1.jpg",
             "music": "https://www.youtube.com/watch?v=3qK82JvRY5s"
         },
         {
@@ -131,6 +149,7 @@
             "name": "Memphis Minnie",
             "year": "1897 - 1973",
             "country": "USA",
+            "image": "https://www.jornada.com.mx/2020/10/05/fotos/a12n2esp-1.jpg",
             "music": "https://www.youtube.com/watch?v=rD2GUKwqliU"
         },
         {
@@ -138,6 +157,7 @@
             "name": "Odetta Holmes",
             "year": "1930 - 2008",
             "country": "USA",
+            "image": "https://www.jornada.com.mx/2020/10/05/fotos/a12n2esp-1.jpg",
             "music": "https://www.youtube.com/watch?v=KPyCJIPtJps"
         },
         {
@@ -145,6 +165,7 @@
             "name": "She-Devils (banda)",
             "year": "1963 - presente",
             "country": "ARG",
+            "image": "https://www.jornada.com.mx/2020/10/05/fotos/a12n2esp-1.jpg",
             "music": "https://www.youtube.com/watch?v=fjAR7yNuf4Y"
         },
         {
@@ -152,6 +173,7 @@
             "name": "Patti Smith",
             "year": "1946 - presente",
             "country": "USA",
+            "image": "https://www.jornada.com.mx/2020/10/05/fotos/a12n2esp-1.jpg",
             "music": "https://www.youtube.com/watch?v=M_ciiCyxOJA"
         },
         {
@@ -159,6 +181,7 @@
             "name": "PJ Harvey",
             "year": "1969 - presente",
             "country": "UK",
+            "image": "https://www.jornada.com.mx/2020/10/05/fotos/a12n2esp-1.jpg",
             "music": "https://www.youtube.com/watch?v=STxXS5lLunE"
         },
         {
@@ -166,6 +189,7 @@
             "name": "Ronnie Spector Siouxsie",
             "year": "1943 - presente",
             "country": "USA",
+            "image": "https://www.jornada.com.mx/2020/10/05/fotos/a12n2esp-1.jpg",
             "music": "https://www.youtube.com/watch?v=OP81fPz1ujA"
         },
         {
@@ -173,6 +197,7 @@
             "name": "Rosetta Tharpe",
             "year": "1915 -1973",
             "country": "USA",
+            "image": "https://www.jornada.com.mx/2020/10/05/fotos/a12n2esp-1.jpg",
             "music": "https://www.youtube.com/watch?v=Y9a49oFalZE"
         },
         {
@@ -180,6 +205,7 @@
             "name": "Shirley Manson",
             "year": "1966 - presente",
             "country": "UK",
+            "image": "https://www.jornada.com.mx/2020/10/05/fotos/a12n2esp-1.jpg",
             "music": "https://www.youtube.com/watch?v=ypr18UmxOas"
         },
         {
@@ -187,6 +213,7 @@
             "name": "Suzi Quatro",
             "year": "1950 - presente",
             "country": "USA",
+            "image": "https://www.jornada.com.mx/2020/10/05/fotos/a12n2esp-1.jpg",
             "music": "https://www.youtube.com/watch?v=xYoogY-UGio"
         },
         {
@@ -194,6 +221,7 @@
             "name": "Wanda Jackson",
             "year": "1937 - presente",
             "country": "USA",
+            "image": "https://www.jornada.com.mx/2020/10/05/fotos/a12n2esp-1.jpg",
             "music": "https://www.youtube.com/watch?v=BnULGVbhPcY"
         },
         {
@@ -201,6 +229,7 @@
             "name": "Wendy O Williams",
             "year": "1949 - 1998",
             "country": "USA",
+            "image": "https://www.jornada.com.mx/2020/10/05/fotos/a12n2esp-1.jpg",
             "music": "https://www.youtube.com/watch?v=KQ4E0OpPH4U"
         }
     ]
