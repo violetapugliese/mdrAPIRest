@@ -6,6 +6,7 @@
             "year": "1989 - 1995",
             "country": "USA",
             "image": "https://static.wixstatic.com/media/ab04b6_3b5096e1ec4f407090e9bc0820500114~mv2.jpg/v1/fill/w_800,h_474,al_c,q_90/ab04b6_3b5096e1ec4f407090e9bc0820500114~mv2.jpg",
+            "info":"https://es.wikipedia.org/wiki/4_Non_Blondes",
             "music": "https://www.youtube.com/embed/6NXnxTNIWkc"
         },
         {
@@ -14,6 +15,7 @@
             "year": "1974 - presente",
             "country": "CND",
             "image": "https://www.rockandpop.cl/wp-content/uploads/2020/07/fafad5b7e283ece9d0c9039e1274fdca-400x360.jpg",
+            "info":"https://es.wikipedia.org/wiki/Alanis_Morissette",
             "music": "https://www.youtube.com/watch?v=OOgpT5rEKIU"
         },
         {
@@ -22,6 +24,7 @@
             "year": "1954 - presente",
             "country": "UK",
             "image": "data:image/jpeg;base64,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",
+            "info":"https://es.wikipedia.org/wiki/Annie_Lennox",
             "music": "https://www.youtube.com/watch?v=HG7I4oniOyA"
         },
         {
@@ -30,6 +33,7 @@
             "year": "1942 - 2018",
             "country": "USA",
             "image": "https://i0.wp.com/porticomx.net/wp-content/uploads/2020/03/aretha-franklin.jpg?fit=1030%2C600&ssl=1",
+            "info":"https://es.wikipedia.org/wiki/Aretha_Franklin",
             "music": "https://www.youtube.com/watch?v=ykxuu8LNluY"
         },
         {
@@ -38,7 +42,8 @@
             "year": "1965 - presente",
             "country": "ISL",
              "image": "https://jenesaispop.com/wp-content/uploads/2020/06/bjork-post.jpg",
-            "music": "https://www.youtube.com/watch?v=-W5OfUzwyyw"
+            "info":"https://es.wikipedia.org/wiki/Bj%C3%B6rk",
+             "music": "https://www.youtube.com/watch?v=-W5OfUzwyyw"
         },
         {
             "id": "6",
@@ -46,6 +51,7 @@
             "year": "1942 - presente",
             "country": "USA",
             "image": "data:image/jpeg;base64,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",
+            "info":"https://es.wikipedia.org/wiki/Carole_King",
             "music": "https://www.youtube.com/watch?v=VbMI4imWFzY"
         },
         {
@@ -54,6 +60,7 @@
             "year": "1951 - presente",
             "country": "USA",
             "image": "https://ep01.epimg.net/ccaa/imagenes/2017/07/23/catalunya/1500809051_054571_1500809196_noticia_normal.jpg",
+            "info":"https://es.wikipedia.org/wiki/Chrissie_Hynde",
             "music": "https://www.youtube.com/watch?v=UQ8kbordCAg"
         },
         {
@@ -62,6 +69,7 @@
             "year": "1923 - 2004",
             "country": "USA",
             "image": "https://1.bp.blogspot.com/-ccBHG-kzFYk/YAnCrhUrQxI/AAAAAAAAMUI/4ivtKvDSCMk8sgaujajuxgoPy20mCEG_wCLcBGAsYHQ/s799/Cordell%2BJackson.jpg",
+            "info":"https://en.wikipedia.org/wiki/Cordell_Jackson",
             "music": "https://www.youtube.com/watch?v=TNuYpPVFuJ8"
         },
         {
@@ -70,6 +78,7 @@
             "year": "1945 - presente",
             "country": "USA",
             "image": "https://static1.abc.es/media/cultura/2019/10/01/Debbie-Harry-biografia-explosiva-U309203466329q--1024x512@abc.jpg",
+            "info":"https://es.wikipedia.org/wiki/Debbie_Harry",
             "music": "https://www.youtube.com/watch?v=NbdRLyixJpc"
         },
         {
@@ -78,6 +87,7 @@
             "year": "1939 - presente",
             "country": "USA",
             "image": "https://monterreyrock.com/wp-content/uploads/2015/10/grace-slick-una-leyenda.jpg",
+            "info":"https://es.wikipedia.org/wiki/Grace_Slick",
             "music": "https://www.youtube.com/watch?v=bv98M7iZwAI"
         },
         {
@@ -86,6 +96,7 @@
             "year": "1943 - 1970",
             "country": "USA",
             "image": "https://www.jornada.com.mx/2020/10/05/fotos/a12n2esp-1.jpg",
+            "info":"https://es.wikipedia.org/wiki/Janis_Joplin",
             "music": "https://www.youtube.com/watch?v=zmRctr86SVE"
         },
         {
@@ -94,6 +105,7 @@
             "year": "1947 - presente",
             "country": "USA",
             "image": "https://dangerousminds.net/content/uploads/images/jaynecountypoeafnknae.jpg",
+            "info":"https://es.wikipedia.org/wiki/Jayne_County",
             "music": "https://www.youtube.com/watch?v=x8iCLbnu1rk"
         },
         {
@@ -102,6 +114,7 @@
             "year": "1958 -presente",
             "country": "USA",
             "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Jett_Rocks.jpg/220px-Jett_Rocks.jpg",
+            "info":"https://es.wikipedia.org/wiki/Joan_Jett",
             "music": "https://www.youtube.com/watch?v=wMsazR6Tnf8"
         },
         {
@@ -110,6 +123,7 @@
             "year": "1968 - presente",
             "country": "USA",
             "image": "https://citas.in/media/authors/kathleen-hanna.png",
+            "info":"",
             "music": "https://www.youtube.com/watch?v=hAg9bItrsII"
         },
         {
@@ -118,6 +132,7 @@
             "year": "1947 - 1997 ",
             "country": "USA",
             "image": "https://i2.wp.com/theseconddisc.com/wp-content/uploads/2010/09/lauranyro2.gif?fit=236%2C299&ssl=1&w=144",
+            "info":"https://es.wikipedia.org/wiki/Kathleen_Hanna",
             "music": "https://www.youtube.com/watch?v=raxswPy0bW4"
         },
         {
@@ -126,6 +141,7 @@
             "year": "1959 - presente",
             "country": "USA",
             "image": "https://i2.wp.com/www.vallejoandcompany.com/wp-content/uploads/2017/03/best-lydia-lunch-albums-list-u1.jpg",
+            "info":"",
             "music": "https://www.youtube.com/watch?v=VUWDrGGX9Ao"
         },
         {
@@ -134,6 +150,7 @@
             "year": "1883 - 1946",
             "country": "USA",
             "image": "https://artist1.cdn107.com/42a/42a3fe59227b1e63a38c3928cd3ca60d_xl.jpg",
+            "info":"https://es.wikipedia.org/wiki/Lydia_Lunch",
             "music": "https://www.youtube.com/watch?v=8AN3pxrRzMM"
         },
         {
@@ -142,6 +159,7 @@
             "year": "1944 - pesente",
             "country": "USA",
             "image": "https://wearerock.files.wordpress.com/2015/03/fc75733dc9c661e9c0dffb7517a801dd.jpg",
+            "info":"https://es.wikipedia.org/wiki/Maureen_Tucker",
             "music": "https://www.youtube.com/watch?v=3qK82JvRY5s"
         },
         {
@@ -150,6 +168,7 @@
             "year": "1897 - 1973",
             "country": "USA",
             "image": "https://eusica.mx/images/640/EYC/BLOG%20EL%20BIEN%20DEL%20ALMA/Blogs%202021/Marzo/Memphis%20Minnie/Memphis_Minnie_uno.jpg",
+            "info":"https://es.wikipedia.org/wiki/Memphis_Minnie",
             "music": "https://www.youtube.com/watch?v=rD2GUKwqliU"
         },
         {
@@ -158,6 +177,7 @@
             "year": "1930 - 2008",
             "country": "USA",
             "image": "https://cdn.britannica.com/62/199162-050-87B6984E/Odetta-1961.jpg",
+            "info":"https://es.wikipedia.org/wiki/Odetta",
             "music": "https://www.youtube.com/watch?v=KPyCJIPtJps"
         },
         {
@@ -166,6 +186,7 @@
             "year": "1963 - presente",
             "country": "ARG",
             "image": "https://i.ytimg.com/vi/AR88dcHt2QE/hqdefault.jpg",
+            "info":"https://es.wikipedia.org/wiki/She-Devils",
             "music": "https://www.youtube.com/watch?v=fjAR7yNuf4Y"
         },
         {
@@ -174,6 +195,7 @@
             "year": "1946 - presente",
             "country": "USA",
             "image": "https://www.larepublica.ec/wp-content/uploads/2016/12/Captura-de-pantalla-2016-12-07-a-las-16.19.17-678x381.png",
+            "info":"https://es.wikipedia.org/wiki/Patti_Smith",
             "music": "https://www.youtube.com/watch?v=M_ciiCyxOJA"
         },
         {
@@ -182,6 +204,7 @@
             "year": "1969 - presente",
             "country": "UK",
             "image": "https://img.discogs.com/TTbGEo9x9D31sKJSeYi6_GcscU0=/600x600/smart/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/A-36052-1606316026-8044.jpeg.jpg",
+            "info":"https://es.wikipedia.org/wiki/PJ_Harvey",
             "music": "https://www.youtube.com/watch?v=STxXS5lLunE"
         },
         {
@@ -190,6 +213,7 @@
             "year": "1943 - presente",
             "country": "USA",
             "image": "https://bideodromage.files.wordpress.com/2020/02/ronnie-spector-xvii.jpg",
+            "info":"https://es.wikipedia.org/wiki/Ronnie_Spector",
             "music": "https://www.youtube.com/watch?v=OP81fPz1ujA"
         },
         {
@@ -198,6 +222,7 @@
             "year": "1915 -1973",
             "country": "USA",
             "image": "https://blog.wegow.com/wp-content/uploads/2020/06/Sister-Rosetta-Tharpe-Cache-Agency.jpg",
+            "info":"https://es.wikipedia.org/wiki/Sister_Rosetta_Tharpe",
             "music": "https://www.youtube.com/watch?v=Y9a49oFalZE"
         },
         {
@@ -206,6 +231,7 @@
             "year": "1966 - presente",
             "country": "UK",
             "image": "https://www.tonica.la/__export/1597265354918/sites/debate/img/2020/08/12/shirley-manson-confirma-avances-nuevo-album-garbage_efe_crop1597265320035.jpg_1902800913.jpg",
+            "info":"https://es.wikipedia.org/wiki/Shirley_Manson",
             "music": "https://www.youtube.com/watch?v=ypr18UmxOas"
         },
         {
@@ -214,6 +240,7 @@
             "year": "1950 - presente",
             "country": "USA",
             "image": "https://loff.it/wp-content/uploads/2016/05/loffit-hoy-cumple-anos-la-cantante-rockera-suzi-quatro-04.jpg",
+            "info":"",
             "music": "https://www.youtube.com/watch?v=xYoogY-UGio"
         },
         {
@@ -222,6 +249,7 @@
             "year": "1937 - presente",
             "country": "USA",
             "image": "https://www.lhmagazin.com/wp-content/uploads/2018/10/wanda-jackson.jpg",
+            "info":"https://es.wikipedia.org/wiki/Suzi_Quatro",
             "music": "https://www.youtube.com/watch?v=BnULGVbhPcY"
         },
         {
@@ -230,6 +258,7 @@
             "year": "1949 - 1998",
             "country": "USA",
             "image": "https://s3.amazonaws.com/arc-wordpress-client-uploads/infobae-wp/wp-content/uploads/2019/04/05160428/Wendy-O.-Williams-en-The-Plasmatics.jpg",
+            "info":"https://es.wikipedia.org/wiki/Wendy_O._Williams",
             "music": "https://www.youtube.com/watch?v=KQ4E0OpPH4U"
         }
     ]
